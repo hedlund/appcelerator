@@ -4,3 +4,6 @@
 [submodule "KitchenSinkiPad"]
 	path = KitchenSinkiPad
 	url = https://github.com/appcelerator/KitchenSinkiPad.git
+[submodule "titanium_modules"]
+	path = titanium_modules
+	url = https://github.com/appcelerator/titanium_modules.git
