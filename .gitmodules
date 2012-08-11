@@ -1,3 +1,6 @@
 [submodule "KitchenSink"]
 	path = KitchenSink
 	url = https://github.com/appcelerator/KitchenSink.git
+[submodule "KitchenSinkiPad"]
+	path = KitchenSinkiPad
+	url = https://github.com/appcelerator/KitchenSinkiPad.git
