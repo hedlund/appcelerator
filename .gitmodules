@@ -10,6 +10,7 @@
 [submodule "alloy"]
 	path = alloy
 	url = https://github.com/appcelerator/alloy.git
-[submodule "Force"]
-	path = Force
+
+[submodule "examples/Force"]
+	path = examples/Force
 	url = https://github.com/appcelerator-developer-relations/Force.git
