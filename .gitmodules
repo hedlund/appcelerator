@@ -7,3 +7,9 @@
 [submodule "titanium_modules"]
 	path = titanium_modules
 	url = https://github.com/appcelerator/titanium_modules.git
+[submodule "alloy"]
+	path = alloy
+	url = https://github.com/appcelerator/alloy.git
+[submodule "Force"]
+	path = Force
+	url = https://github.com/appcelerator-developer-relations/Force.git
