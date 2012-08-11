@@ -31,3 +31,12 @@
 [submodule "modules/titanium_modules"]
 	path = modules/titanium_modules
 	url = https://github.com/appcelerator/titanium_modules.git
+[submodule "examples/pathmenu.js"]
+	path = examples/pathmenu.js
+	url = https://github.com/tonylukasavage/pathmenu.js.git
+[submodule "modules/physicalSizeCategory"]
+	path = modules/physicalSizeCategory
+	url = https://github.com/tonylukasavage/physicalSizeCategory.git
+[submodule "modules/path.animator"]
+	path = modules/path.animator
+	url = https://github.com/tonylukasavage/path.animator.git
