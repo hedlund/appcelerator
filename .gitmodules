@@ -1,9 +1,3 @@
-[submodule "KitchenSink"]
-	path = KitchenSink
-	url = https://github.com/appcelerator/KitchenSink.git
-[submodule "KitchenSinkiPad"]
-	path = KitchenSinkiPad
-	url = https://github.com/appcelerator/KitchenSinkiPad.git
 [submodule "titanium_modules"]
 	path = titanium_modules
 	url = https://github.com/appcelerator/titanium_modules.git
@@ -14,3 +8,9 @@
 [submodule "examples/Force"]
 	path = examples/Force
 	url = https://github.com/appcelerator-developer-relations/Force.git
+[submodule "examples/KitchenSink"]
+	path = examples/KitchenSink
+	url = https://github.com/appcelerator/KitchenSink.git
+[submodule "examples/KitchenSinkiPad"]
+	path = examples/KitchenSinkiPad
+	url = https://github.com/appcelerator/KitchenSinkiPad.git
