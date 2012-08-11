@@ -40,3 +40,36 @@
 [submodule "modules/path.animator"]
 	path = modules/path.animator
 	url = https://github.com/tonylukasavage/path.animator.git
+[submodule "frameworks/Struct"]
+	path = frameworks/Struct
+	url = https://github.com/krawaller/Struct.git
+[submodule "examples/Tweetanium"]
+	path = examples/Tweetanium
+	url = https://github.com/appcelerator-titans/tweetanium.git
+[submodule "frameworks/kranium"]
+	path = frameworks/kranium
+	url = https://github.com/krawaller/kranium.git
+[submodule "frameworks/kranium-demo"]
+	path = frameworks/kranium-demo
+	url = https://github.com/krawaller/kranium-demo.git
+[submodule "examples/Snapost"]
+	path = examples/Snapost
+	url = https://github.com/kwhinnery/Snapost.git
+[submodule "frameworks/Helium"]
+	path = frameworks/Helium
+	url = https://github.com/kwhinnery/Helium
+[submodule "examples/custom_iOS_tabBar"]
+	path = examples/custom_iOS_tabBar
+	url = https://github.com/appcelerator-titans/custom_iOS_tabBar.git
+[submodule "examples/TiBall"]
+	path = examples/TiBall
+	url = https://github.com/appcelerator-titans/TiBall.git
+[submodule "frameworks/silver"]
+	path = frameworks/silver
+	url = https://github.com/tanin47/silver
+[submodule "frameworks/TiMVC"]
+	path = frameworks/TiMVC
+	url = https://github.com/deboorn/TiMVC.git
+[submodule "frameworks/timvc-2"]
+	path = frameworks/timvc-2
+	url = https://github.com/rrichter/timvc.git
