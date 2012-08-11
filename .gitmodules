@@ -1,10 +1,6 @@
-[submodule "titanium_modules"]
-	path = titanium_modules
-	url = https://github.com/appcelerator/titanium_modules.git
 [submodule "alloy"]
 	path = alloy
 	url = https://github.com/appcelerator/alloy.git
-
 [submodule "examples/Force"]
 	path = examples/Force
 	url = https://github.com/appcelerator-developer-relations/Force.git
@@ -14,3 +10,24 @@
 [submodule "examples/KitchenSinkiPad"]
 	path = examples/KitchenSinkiPad
 	url = https://github.com/appcelerator/KitchenSinkiPad.git
+[submodule "examples/Sample.Mapping"]
+	path = examples/Sample.Mapping
+	url = https://github.com/appcelerator-developer-relations/Sample.Mapping.git
+[submodule "examples/Sample.Todo"]
+	path = examples/Sample.Todo
+	url = https://github.com/appcelerator-developer-relations/Sample.Todo.git
+[submodule "examples/Sample.RSS"]
+	path = examples/Sample.RSS
+	url = https://github.com/appcelerator-developer-relations/Sample.RSS.git
+[submodule "examples/HybridApp"]
+	path = examples/HybridApp
+	url = https://github.com/appcelerator-developer-relations/HybridApp.git
+[submodule "examples/Whackranium"]
+	path = examples/Whackranium
+	url = https://github.com/appcelerator-developer-relations/Whacktanium.git
+[submodule "modules/forcemodule"]
+	path = modules/forcemodule
+	url = https://github.com/appcelerator-developer-relations/forcemodule.git
+[submodule "modules/titanium_modules"]
+	path = modules/titanium_modules
+	url = https://github.com/appcelerator/titanium_modules.git
