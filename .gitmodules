@@ -73,3 +73,12 @@
 [submodule "frameworks/timvc-2"]
 	path = frameworks/timvc-2
 	url = https://github.com/rrichter/timvc.git
+[submodule "modules/AGCalendar"]
+	path = modules/AGCalendar
+	url = https://github.com/Appgutta/AGCalendar.git
+[submodule "modules/TiLED"]
+	path = modules/TiLED
+	url = https://github.com/Appgutta/TiLED.git
+[submodule "modules/TiLocalytics"]
+	path = modules/TiLocalytics
+	url = https://github.com/Appgutta/TiLocalytics.git
