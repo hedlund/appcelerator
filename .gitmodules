@@ -82,3 +82,7 @@
 [submodule "modules/TiLocalytics"]
 	path = modules/TiLocalytics
 	url = https://github.com/Appgutta/TiLocalytics.git
+
+[submodule "modules/Titanium-Calendar"]
+	path = modules/Titanium-Calendar
+	url = https://github.com/hedlund/Titanium-Calendar.git
