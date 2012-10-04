@@ -4,9 +4,6 @@
 [submodule "examples/Force"]
 	path = examples/Force
 	url = https://github.com/appcelerator-developer-relations/Force.git
-[submodule "examples/KitchenSink"]
-	path = examples/KitchenSink
-	url = https://github.com/appcelerator/KitchenSink.git
 [submodule "examples/KitchenSinkiPad"]
 	path = examples/KitchenSinkiPad
 	url = https://github.com/appcelerator/KitchenSinkiPad.git
