@@ -83,3 +83,6 @@
 [submodule "modules/Titanium-Calendar"]
 	path = modules/Titanium-Calendar
 	url = https://github.com/hedlund/Titanium-Calendar.git
+[submodule "examples/KitchenSink"]
+	path = examples/KitchenSink
+	url = https://github.com/appcelerator/KitchenSink.git
